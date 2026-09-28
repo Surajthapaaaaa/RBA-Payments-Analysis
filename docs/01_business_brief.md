@@ -39,7 +39,8 @@ that mean for product priorities?
 -RBA Payments Data (rba.gov.au).
 -Tables used: C1/C1.1 (credit and charge cards), C2/C2.1 (debit cards),
 -C4/C4.1 (ATMs), C5/C5.1 (cheques), C6/C6.1 (Direct Entry and NPP).
-Download date: [date].
+Download date: 28 Sep, 2026
+Latest data point in files: [month/year, fill in after opening the files]
 
  ## 8. Deliverables
 KPI definitions, data dictionary, cleaning log, SQL scripts,
