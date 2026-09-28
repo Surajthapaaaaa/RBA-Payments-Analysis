@@ -19,11 +19,11 @@ Which payment types are growing, which are declining, and what does
 that mean for product priorities?
 
  ## 4. Business Questions
-1. Which payment types are growing fastest year-on-year?
-2. Which are declining, and how quickly?
-3. How is the payment mix (share of total value) changing?
-4. How seasonal is demand, and does it affect planning?
-5. Is debit card growth outpacing credit card growth, and what does
+a. Which payment types are growing fastest year-on-year?
+b. Which are declining, and how quickly?
+c. How is the payment mix (share of total value) changing?
+d. How seasonal is demand, and does it affect planning?
+e. Is debit card growth outpacing credit card growth, and what does
    that imply for which card-linked products to prioritise?
 
 ## 5. Success Criteria
@@ -36,9 +36,9 @@ that mean for product priorities?
 **Out of scope:** customer-level behaviour, fraud, non-RBA sources.
 
 ## 7. Data Sources
-RBA Payments Data (rba.gov.au).
-Tables used: C1/C1.1 (credit and charge cards), C2/C2.1 (debit cards),
-C4/C4.1 (ATMs), C5/C5.1 (cheques), C6/C6.1 (Direct Entry and NPP).
+-RBA Payments Data (rba.gov.au).
+-Tables used: C1/C1.1 (credit and charge cards), C2/C2.1 (debit cards),
+-C4/C4.1 (ATMs), C5/C5.1 (cheques), C6/C6.1 (Direct Entry and NPP).
 Download date: [date].
 
  ## 8. Deliverables
