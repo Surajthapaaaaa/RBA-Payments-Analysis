@@ -13,11 +13,11 @@ on copies.
 
 | # | File | Description | Frequency | First date | Last date | Units |
 |---|------|-------------|-----------|------------|-----------|-------|
-| 1 | C1.1 | Credit and charge cards, original series | monthly | Jan 1985 | July 2026 | Value: $ Million; Number: thousands |
-| 2 | C2.1 | Debit cards, original series | Monthly | May 1994 | July 2026 | Value: $ Million; Number: thousands |
-| 3 | C4.1 | ATMs, original series | Monthly | May 1994 | July 2026 | Value: $ Million; Number: thousands |
-| 4 | C5.1 | Cheques, original series | Monthly | Jan 2002 | July 2026 | Value: $ Million; Number: thousands |
-| 5 | C6.1 | Direct Entry and NPP, original series | Monthly | Jan 2002| July 2026 | Value: $ Million; Number: thousands |
+| 1 | C1.1 | Credit and charge cards, original series | monthly | Jan 1985 | July 2026 | Value: $ Million; Number: '000 |
+| 2 | C2.1 | Debit cards, original series | Monthly | May 1994 | July 2026 | Value: $ Million; Number: '000 |
+| 3 | C4.1 | ATMs, original series | Monthly | May 1994 | July 2026 | Value: $ Million; Number: '000 |
+| 4 | C5.1 | Cheques, original series | Monthly | Jan 2002 | July 2026 | Value: $ Million; Number: '000 |
+| 5 | C6.1 | Direct Entry and NPP, original series | Monthly | Jan 2002| July 2026 | Value: $ Million; Number: '000 |
 
 ## 2. Cleaning Steps
 
