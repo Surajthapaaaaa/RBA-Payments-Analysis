@@ -19,11 +19,11 @@ Which payment types are growing, which are declining, and what does
 that mean for product priorities?
 
  ## 4. Business Questions
-a. Which payment types are growing fastest year-on-year?
-b. Which are declining, and how quickly?
-c. How is the payment mix (share of total value) changing?
-d. How seasonal is demand, and does it affect planning?
-e. Is debit card growth outpacing credit card growth, and what does
+- Which payment types are growing fastest year-on-year?
+-  Which are declining, and how quickly?
+- How is the payment mix (share of total value) changing?
+- How seasonal is demand, and does it affect planning?
+- Is debit card growth outpacing credit card growth, and what does
    that imply for which card-linked products to prioritise?
 
 ## 5. Success Criteria
