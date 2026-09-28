@@ -2,7 +2,8 @@ Business analysis of Australian retail payment trends using RBA data,
 built with Excel, SQL and [Power BI / Tableau].
 
 Business Problem
-[One sentence from your brief.]
+Which Australian payment types are growing or declining, and where
+should a payments fintech invest next?
 
 Project Status
 - [x] Business brief
