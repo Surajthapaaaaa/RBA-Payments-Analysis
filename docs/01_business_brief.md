@@ -12,7 +12,7 @@ which are declining, and what that means for product priorities.
  2. Stakeholder
 Head of Product at a Sydney-based payments fintech (hypothetical).
 
- 3. Business Problem
+ ## 3. Business Problem
 The company must decide where to invest next: card-linked products,
 credit products, or account-to-account (NPP) payments.
 Which payment types are growing, which are declining, and what does
