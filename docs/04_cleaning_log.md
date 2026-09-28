@@ -34,9 +34,65 @@ Add a row for every change, however small.
 
 ## 3. Data Quality Issues and Decisions
 
-| Issue | Where | Decision | Reason |
-|-------|-------|----------|--------|
-| [e.g. missing NPP value] | [C6.1, Dec 2024] | [left blank / excluded] | [why] |
+### 3.1 Issues and Decisions
+
+| # | Issue | Where (file / series) | Decision | Reason |
+|---|-------|-----------------------|----------|--------|
+| 1 | [ ] | [ ] | [ ] | [ ] |
+| 2 | [ ] | [ ] | [ ] | [ ] |
+
+### 3.2 Coverage by Series
+
+Series in the same file can start and end on different dates.
+Blank cells before a series starts are treated as "no data", not zero.
+
+**C1.1**
+
+| Series ID | Metric | Unit | Start | End |
+|-----------|--------|------|-------|-----|
+| CCCCSTCAV | Value of cash advances | $ million | Jan 1985 | [ ] |
+| CCCCSNA | Number of accounts | '000 | [ ] | [ ] |
+| CCCCSNAA | Number of active accounts | '000 | [ ] | [ ] |
+
+**C2.1**
+
+| Series ID | Metric | Unit | Start | End |
+|-----------|--------|------|-------|-----|
+| [ ] | [ ] | [ ] | [ ] | [ ] |
+
+(Repeat for C4.1, C5.1 and C6.1.)
+
+### 3.3 Series Breaks
+
+Dates where the RBA changed how a series is measured. Growth rates
+that cross a break may not be like-for-like.
+
+| File | Series ID | Break date | RBA explanation | Treatment in analysis |
+|------|-----------|------------|-----------------|-----------------------|
+| [ ] | [ ] | [ ] | [ ] | [ ] |
+
+### 3.4 Missing Values and Gaps
+
+| File | Series ID | Period | What is shown in file | Decision |
+|------|-----------|--------|-----------------------|----------|
+| [ ] | [ ] | [ ] | [ ] | [ ] |
+
+### 3.5 Units and Series Types
+
+Series measured differently are never added or compared directly.
+
+| Type | Examples | Unit in file | Handling |
+|------|----------|--------------|----------|
+| Value (flow) | [ ] | $ million | [ ] |
+| Count of transactions (flow) | [ ] | '000 | [ ] |
+| Count at a point in time (stock) | [ ] | '000 | [ ] |
+
+### 3.6 Original vs Seasonally Adjusted
+
+| Decision | Detail |
+|----------|--------|
+| Series used for growth and share analysis | [original / seasonally adjusted] |
+| Reason | [ ] |
 
 ## 4. Reshaping (wide to long format)
 
